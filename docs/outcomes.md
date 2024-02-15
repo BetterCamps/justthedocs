@@ -6,7 +6,7 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 ### Development Objectives
 
-###1. Promote Inherent Worth and Dignity  
+### 1. Promote Inherent Worth and Dignity  
 
    **Goal**  
      To foster an environment where every individual feels valued and respected regardless of their background or beliefs.  
