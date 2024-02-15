@@ -4,8 +4,7 @@ These goals, outcomes, and assessments are meant to serve as a guide for the inc
 
 Staff should be trained to lead the activities and be aware of the observable outcomes that indicate such development. 
 
-#### Development Objectives
-<br>
+### Development Objectives
 1. Promote Inherent Worth and Dignity <br>
 
 Goal: <br>
