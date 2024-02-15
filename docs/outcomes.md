@@ -29,75 +29,80 @@ Staff should be trained to lead the activities and be aware of the observable ou
 Campers will gain an understanding of social justice issues and be inspired to take action towards creating a more equitable and compassionate society.  
 
    **How to measure**   
-   - Facilitate group discussions on topics related to social justice, allowing campers to share their perspectives and ideas.  
-   - Engage campers in hands-on service projects and reflect on the impact of their actions on others.  
-   - Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion.
+   -Facilitate group discussions on topics related to social justice, allowing campers to share their perspectives and ideas.  
+   -Engage campers in hands-on service projects and reflect on the impact of their actions on others.  
+   -Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion.
 
 <br>
-3. Encourage Acceptance and Growth <br>
+3. Encourage Acceptance and Growth  
 
-Goal:<br>
-To create a supportive environment where campers feel accepted for who they are and are encouraged to pursue personal growth and development.<br>
+   **Goal**  
+   To create a supportive environment where campers feel accepted for who they are and are encouraged to pursue personal growth and development.<br>
 
-Outcome: <br>
-Campers will feel empowered to explore their interests and talents, both within their hobbies and in their personal development, leading to increased self-confidence and resilience. <br>
+   **Outcome**  
+   Campers will feel empowered to explore their interests and talents, both within their hobbies and in their personal development, leading to increased self-confidence and resilience. <br>
 
-Assess:	<br>	
-Create small support groups, even including cabin groups, where campers can share their challenges and successes in a safe and supportive environment. <br>
-Provide opportunities for campers to showcase their talents and receive encouragement and feedback from their peers. <br>
-Offer programming or activities containing art, writing, music, or other media where campers can express their thoughts and ideas creatively. <br>
+   **How to measure**  
+   -Create small support groups, even including cabin groups, where campers can share their challenges and successes in a safe and supportive environment.  
+   -Provide opportunities for campers to showcase their talents and receive encouragement and feedback from their peers.  
+   -Offer programming or activities containing art, writing, music, or other media where campers can express their thoughts and ideas creatively.  
+   
 <br>	
-4. Facilitate a Free and Responsible Search for Truth and Meaning <br>
+4. Facilitate a Free and Responsible Search for Truth and Meaning  
 
-Goal: <br>
-To encourage critical thinking and open-mindedness, fostering a lifelong commitment to seeking truth and meaning through rational inquiry and exploration. <br>
+   **Goal**  
+   To encourage critical thinking and open-mindedness, fostering a lifelong commitment to seeking truth and meaning through rational inquiry and exploration.  
 
-Outcome: <br>
-Campers will develop the skills to critically evaluate information and form their own informed opinions, leading to a deeper understanding of themselves and the world around them. <br>
+   **Outcome**  
+   Campers will develop the skills to critically evaluate information and form their own informed opinions, leading to a deeper understanding of themselves and the world around them.  
 
-Assess:	<br>
-Organize structured discussions around thought-provoking topics, encouraging campers to explore different perspectives and form their own opinions. <br>
-Encourage campers to question assumptions and engage in respectful dialogue with their peers. <br>
-Invite experts or guest speakers to present on topics related to truth-seeking and critical thinking. <br>
+   **How to measure**  
+   -Organize structured discussions around thought-provoking topics, encouraging campers to explore different perspectives and form their own opinions.  
+   -Encourage campers to question assumptions and engage in respectful dialogue with their peers.  
+   -Invite experts or guest speakers to present on topics related to truth-seeking and critical thinking.  
+
 <br>
-5. Uphold the Right of Conscience and Democratic Process <br>
+5. Uphold the Right of Conscience and Democratic Process  
 
-Goal: <br>
-To cultivate a sense of civic engagement and respect for diverse viewpoints, empowering campers to participate in democratic processes and advocate for their beliefs. <br>
+   **Goal**  
+   To cultivate a sense of civic engagement and respect for diverse viewpoints, empowering campers to participate in democratic processes and advocate for their beliefs.  
 
-Outcome: <br>	
-Campers will learn the importance of active citizenship and civil discourse, contributing positively to their communities and society at large. <br>
+   **Outcome**  
+   Campers will learn the importance of active citizenship and civil discourse, contributing positively to their communities and society at large.  
 
-Assess:	<br>	
-Hold regular meetings where campers can voice their opinions and vote on decisions that affect their cabin groups or the camp community at large. <br>
-Facilitate debates on current events or ethical issues, allowing campers to practice articulating and defending their beliefs. <br>
-Simulate the democratic process and teach campers about the importance of civic engagement. <br>
+   **How to measure**  
+   -Hold regular meetings where campers can voice their opinions and vote on decisions that affect their cabin groups or the camp community at large.  
+   -Facilitate debates on current events or ethical issues, allowing campers to practice articulating and defending their beliefs.  
+   -Simulate the democratic process and teach campers about the importance of civic engagement.  
+
 <br>	
-6. Promote a World Community with Peace, Liberty, and Justice <br>
+6. Promote a World Community with Peace, Liberty, and Justice  
 
-Goal: <br>
-To inspire campers to work towards a global community characterized by peace, liberty, and justice for all. <br>
+   **Goal**  
+   To inspire campers to work towards a global community characterized by peace, liberty, and justice for all.  
 
-Outcome: <br>	
-Campers will develop a sense of global citizenship and empathy towards people from different backgrounds, leading to a commitment to promoting peace and justice to create vibrant, resilient, and compassionate communities. <br>
+   **Outcome**  
+   Campers will develop a sense of global citizenship and empathy towards people from different backgrounds, leading to a commitment to promoting peace and justice to create vibrant, resilient, and compassionate communities.  
 
-Assess:	<br>
-Facilitate programming or activities that celebrate diversity and promote cross-cultural understanding among campers. <br>
-Discuss conflict resolution and nonviolent communication techniques. <br>
-Provide opportunities for and/or encourage campers to engage in cooperative problem solving. <br>
+   **How to measure**  
+   -Facilitate programming or activities that celebrate diversity and promote cross-cultural understanding among campers.  
+   -Discuss conflict resolution and nonviolent communication techniques.  
+   -Provide opportunities for and/or encourage campers to engage in cooperative problem solving.  
+   
 <br>
-7. The Interdependent Web of Existence and Sustainability <br>
+7. The Interdependent Web of Existence and Sustainability  
 
-Goal: <br>
-To cultivate environmental stewardship and appreciation for the interconnectedness of all life forms, promoting sustainable practices and respect for the natural world. <br>
+   **Goal**  
+   To cultivate environmental stewardship and appreciation for the interconnectedness of all life forms, promoting sustainable practices and respect for the natural world.  
 
-Outcome: <br> 
-Campers will develop a sense of responsibility towards the environment and a commitment to preserving the delicate balance of the ecosystems upon which all life depends. <br>
+   **Outcome**  
+   Campers will develop a sense of responsibility towards the environment and a commitment to preserving the delicate balance of the ecosystems upon which all life depends.  
 
-Assess:	<br>	
-Incorporate education about environmental conservation and sustainability practices into programming, activities, or discussions. <br>
-Implement eco-friendly practices within the camp, such as recycling programs or food-waste reduction, and involve campers in their implementation. <br>
-Organize nature hikes where campers can explore, experience, and appreciate the interconnectedness of all living beings firsthand. <br>
+   **How to measure**  
+   -Incorporate education about environmental conservation and sustainability practices into programming, activities, or discussions.  
+   -Implement eco-friendly practices within the camp, such as recycling programs or food-waste reduction, and involve campers in their implementation.  
+   -Organize nature hikes where campers can explore, experience, and appreciate the interconnectedness of all living beings firsthand.  
+<br>
 
 
 These goals are modified from the Seven Principles of Universal Unitarianism, cited below.
