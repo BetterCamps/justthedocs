@@ -1,5 +1,5 @@
 ---
-layout: firstlayout
+layout: home
 title: Camper Goals and Outcomes
 nav_order: 6
 ---
