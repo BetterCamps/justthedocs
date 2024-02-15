@@ -4,7 +4,7 @@ The camp community provides an exceptional opportunity for campers to develop an
 
 These goals, outcomes, and assessments are meant to serve as a guide for the inclusion of our principles into content programming, activity planning, theme generation, and camper interaction, but should not be construed as strictly necessary to be implemented. On a larger scale, we operate with these principles in mind already and many of our existing programs, activities, discussions, and interactions already incorporate these objectives.
 
-Staff should be trained to lead the activities and be aware of the observable outcomes that indicate such development. 
+Staff should be trained to lead the activities and be aware of the observable outcomes that indicate such development. a
 
 ### Development Objectives
 
