@@ -8,8 +8,8 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 #### 1. Promote Inherent Worth and Dignity  
 
-   **Goal**  
-     To foster an environment where every individual feels valued and respected regardless of their background or beliefs.  
+   Goal
+     *To foster an environment where every individual feels valued and respected regardless of their background or beliefs.*  
 
    **Outcome**  
      Campers will develop a deep appreciation for the uniqueness and worth of every person, leading to a culture of inclusivity and empathy within the camp community.  
