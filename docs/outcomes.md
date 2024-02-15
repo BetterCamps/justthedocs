@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Customization
+layout: firstlayout
+title: Camper Goals and Outcomes
 nav_order: 6
 ---
 
