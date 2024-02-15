@@ -1,6 +1,6 @@
 ---
 layout: firstlayout
-title: Home
+title: home
 nav_order: 1
 ---
 
