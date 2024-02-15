@@ -34,6 +34,7 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion.
 
 <br>
+
 3. Encourage Acceptance and Growth  
 
    **Goal**  
@@ -48,6 +49,7 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Offer programming or activities containing art, writing, music, or other media where campers can express their thoughts and ideas creatively.  
    
 <br>	
+
 4. Facilitate a Free and Responsible Search for Truth and Meaning  
 
    **Goal**  
@@ -62,6 +64,7 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Invite experts or guest speakers to present on topics related to truth-seeking and critical thinking.  
 
 <br>
+
 5. Uphold the Right of Conscience and Democratic Process  
 
    **Goal**  
@@ -76,6 +79,7 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Simulate the democratic process and teach campers about the importance of civic engagement.  
 
 <br>	
+
 6. Promote a World Community with Peace, Liberty, and Justice  
 
    **Goal**  
@@ -90,6 +94,7 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Provide opportunities for and/or encourage campers to engage in cooperative problem solving.  
    
 <br>
+
 7. The Interdependent Web of Existence and Sustainability  
 
    **Goal**  
