@@ -14,7 +14,7 @@ Staff should be trained to lead the activities and be aware of the observable ou
    **Outcome**  
      Campers will develop a deep appreciation for the uniqueness and worth of every person, leading to a culture of inclusivity and empathy within the camp community.  
 
-   **How to measure**  
+   **How to measure**   
    - Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect.  
    - Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.  
 
@@ -28,7 +28,7 @@ Staff should be trained to lead the activities and be aware of the observable ou
    **Outcome**  
 Campers will gain an understanding of social justice issues and be inspired to take action towards creating a more equitable and compassionate society.  
 
-   **How to measure**  
+   **How to measure**   
    - Facilitate group discussions on topics related to social justice, allowing campers to share their perspectives and ideas.  
    - Engage campers in hands-on service projects and reflect on the impact of their actions on others.  
    - Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion.
