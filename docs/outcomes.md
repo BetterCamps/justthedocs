@@ -6,28 +6,28 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 Development Objectives
 
-1. Promote Inherent Worth and Dignity
-Goal:
+1. Promote Inherent Worth and Dignity <br>
+Goal: <br>
 To foster an environment where every individual feels valued and respected regardless of their background or beliefs.
 
-Outcome: 	
+Outcome: <br>	
 Campers will develop a deep appreciation for the uniqueness and worth of every person, leading to a culture of inclusivity and empathy within the camp community.
 
-Assess: 	
-Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect.
-Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.
+Assess: <br>	
+Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect. <br>
+Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect. <br>
 
-2. Advance Justice, Equity, and Compassion
-Goal:
+2. Advance Justice, Equity, and Compassion <br>
+Goal: <br>
 To instill a sense of social responsibility and empathy towards others, promoting fairness and compassion in all interactions.
 
-Outcome: 	
+Outcome: <br>	
 Campers will gain an understanding of social justice issues and be inspired to take action towards creating a more equitable and compassionate society.
 
-Assess:		
-Facilitate group discussions on topics related to social justice, allowing campers to share their perspectives and ideas.
-Engage campers in hands-on service projects and reflect on the impact of their actions on others.
-Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion.
+Assess:	<br>	
+Facilitate group discussions on topics related to social justice, allowing campers to share their perspectives and ideas. <br>
+Engage campers in hands-on service projects and reflect on the impact of their actions on others. <br>
+Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion. <br>
 
 3. Encourage Acceptance and Growth
 Goal:
