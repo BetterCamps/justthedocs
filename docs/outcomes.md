@@ -110,5 +110,5 @@ Campers will gain an understanding of social justice issues and be inspired to t
 <br>
 
 
-These goals are modified from the Seven Principles of Universal Unitarianism, cited below.
-Sias, J., & Woodbury, S. (2020, November 19). The Seven Principles. Unitarian Universalist Association. https://www.uua.org/beliefs/what-we-believe/principles 
+These goals are modified from the Seven Principles of Universal Unitarianism, cited below.  
+Sias, J., & Woodbury, S. (2020, November 19). *The Seven Principles*. Unitarian Universalist Association. https://www.uua.org/beliefs/what-we-believe/principles 
