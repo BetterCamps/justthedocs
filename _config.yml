@@ -5,4 +5,10 @@ theme: just-the-docs
 url: https://bettercamps.org
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  #Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+#Footer content
+# appears at the bottom of every page's main content
+# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
+
+footer_content: "Copyright &copy; 2024 BetterCamps. This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
