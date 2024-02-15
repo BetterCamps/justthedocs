@@ -20,7 +20,7 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 <br>
   
-#### 2. Advance Justice, Equity, and Compassion <br>
+2. Advance Justice, Equity, and Compassion <br>
 
    **Goal**  
    To instill a sense of social responsibility and empathy towards others, promoting fairness and compassion in all interactions.  
