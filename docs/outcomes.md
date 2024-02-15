@@ -20,18 +20,19 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 <br>
   
-2. Advance Justice, Equity, and Compassion <br>
+#### 2. Advance Justice, Equity, and Compassion <br>
 
-Goal: <br>
-To instill a sense of social responsibility and empathy towards others, promoting fairness and compassion in all interactions.<br>
+   **Goal**  
+   To instill a sense of social responsibility and empathy towards others, promoting fairness and compassion in all interactions.  
 
-Outcome: <br>	
-Campers will gain an understanding of social justice issues and be inspired to take action towards creating a more equitable and compassionate society.<br>
+   **Outcome**  
+Campers will gain an understanding of social justice issues and be inspired to take action towards creating a more equitable and compassionate society.  
 
-Assess:	<br>	
-Facilitate group discussions on topics related to social justice, allowing campers to share their perspectives and ideas. <br>
-Engage campers in hands-on service projects and reflect on the impact of their actions on others. <br>
-Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion. <br>
+   **How to measure**  
+   - Facilitate group discussions on topics related to social justice, allowing campers to share their perspectives and ideas.  
+   - Engage campers in hands-on service projects and reflect on the impact of their actions on others.  
+   - Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion.
+
 <br>
 3. Encourage Acceptance and Growth <br>
 
