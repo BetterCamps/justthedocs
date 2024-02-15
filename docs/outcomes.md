@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 6
+---
+
 ## Camper Goals and Outcomes
 
 The camp community provides an exceptional opportunity for campers to develop and experience mental, emotional, social, and physical health. We foster specific activities or experiences to provide the greatest opportunity for age-appropriate mental, emotional, social, and physical health development to occur throughout the camp curriculum and through interpersonal interactions. 
