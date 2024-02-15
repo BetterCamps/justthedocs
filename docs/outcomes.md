@@ -14,8 +14,8 @@ Staff should be trained to lead the activities and be aware of the observable ou
    Campers will develop a deep appreciation for the uniqueness and worth of every person, leading to a culture of inclusivity and empathy within the camp community. <br>
 
    *How to measure* <br>
-       * Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect.  <br>
-       * Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.  <br>
+      * Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect.  <br>
+     * Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.  <br>
    <br>
     
 2. Advance Justice, Equity, and Compassion <br>
