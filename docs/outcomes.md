@@ -4,7 +4,7 @@ These goals, outcomes, and assessments are meant to serve as a guide for the inc
 
 Staff should be trained to lead the activities and be aware of the observable outcomes that indicate such development. 
 
-##### H5 Development Objectives
+#### Development Objectives
 <br>
 1. Promote Inherent Worth and Dignity <br>
 
