@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Camper Goals and Outcomes
-parent: Resources
+parent: Policy Library
 nav_order: 2
 ---
 
