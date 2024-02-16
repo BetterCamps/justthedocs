@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Camper Goals and Outcomes
-nav_order: 6
+parent: Resources
+nav_order: 2
 ---
 
 # **Camper Goals and Outcomes**
@@ -108,3 +109,5 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 These goals are modified from the Seven Principles of Unitarian Universalism, cited below.  
 > Sias, J., & Woodbury, S. (2020, November 19). *The Seven Principles*. Unitarian Universalist Association. https://www.uua.org/beliefs/what-we-believe/principles 
+
+###### This work is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
