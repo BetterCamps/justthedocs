@@ -24,9 +24,9 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 #### How to measure   
    - Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect.  
-   - Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.  
+   - Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.   
 
- 
+  
 2. Advance Justice, Equity, and Compassion  
 
 #### Goal  
