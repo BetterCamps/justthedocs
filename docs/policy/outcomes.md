@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Camper Goals and Outcomes
-parent: Policy Library
-nav_order: 2
+parent: library
+nav_order: 5
 ---
 
 # **Camper Goals and Outcomes**
