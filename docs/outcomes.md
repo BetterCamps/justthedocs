@@ -106,5 +106,5 @@ Staff should be trained to lead the activities and be aware of the observable ou
 <br>
 
 
-These goals are modified from the Seven Principles of Universal Unitarianism, cited below.  
+These goals are modified from the Seven Principles of Unitarian Universalism, cited below.  
 > Sias, J., & Woodbury, S. (2020, November 19). *The Seven Principles*. Unitarian Universalist Association. https://www.uua.org/beliefs/what-we-believe/principles 
