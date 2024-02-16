@@ -4,7 +4,7 @@ title: Camper Goals and Outcomes
 nav_order: 6
 ---
 
-## Camper Goals and Outcomes
+# Camper Goals and Outcomes
 
 The camp community provides an exceptional opportunity for campers to develop and experience mental, emotional, social, and physical health. We foster specific activities or experiences to provide the greatest opportunity for age-appropriate mental, emotional, social, and physical health development to occur throughout the camp curriculum and through interpersonal interactions. 
 
@@ -12,9 +12,9 @@ These goals, outcomes, and assessments are meant to serve as a guide for the inc
 
 Staff should be trained to lead the activities and be aware of the observable outcomes that indicate such development. a
 
-### Development Objectives
+## Development Objectives
 
-####1. Promote Inherent Worth and Dignity  
+#### 1. Promote Inherent Worth and Dignity  
 
    **Goal**  
      To foster an environment where every individual feels valued and respected regardless of their background or beliefs.  
