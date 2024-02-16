@@ -10,11 +10,11 @@ The camp community provides an exceptional opportunity for campers to develop an
 
 These goals, outcomes, and assessments are meant to serve as a guide for the inclusion of our principles into content programming, activity planning, theme generation, and camper interaction, but should not be construed as strictly necessary to be implemented. On a larger scale, we operate with these principles in mind already and many of our existing programs, activities, discussions, and interactions already incorporate these objectives.
 
-Staff should be trained to lead the activities and be aware of the observable outcomes that indicate such development. a
+Staff should be trained to lead the activities and be aware of the observable outcomes that indicate such development. 
 
-## Development Objectives
+## Development Objectives  
 
-1. **Promote Inherent Worth and Dignity**  
+1. ### Promote Inherent Worth and Dignity  
 
 #### Goal  
    To foster an environment where every individual feels valued and respected regardless of their background or beliefs.  
@@ -27,7 +27,7 @@ Staff should be trained to lead the activities and be aware of the observable ou
    - Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.  
 
 {:start="2"} 
-2. **Advance Justice, Equity, and Compassion**  
+2. ### Advance Justice, Equity, and Compassion  
 
 #### Goal  
    To instill a sense of social responsibility and empathy towards others, promoting fairness and compassion in all interactions.  
