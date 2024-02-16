@@ -6,18 +6,20 @@ has_children: true
 nav_order: 1
 ---
 
-# **Explore our policies.**
+# **Policy Library**  
 
-###### This work is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)  
-  
-**Administrative Policies:** Streamline your camp's administrative processes with our collection of administrative policies. From registration and enrollment procedures to financial management and staff hiring protocols, these policies ensure smooth operations and compliance with regulatory standards.  
-**Safety Policies:** Browse through our collection of safety policies, covering topics such as emergency procedures, risk management protocols, and camper supervision guidelines. These policies are designed to mitigate risks and promote a safe environment for campers and staff.  
-**Inclusivity Policies:** Discover resources aimed at fostering diversity and inclusion within your camp community. From anti-discrimination policies to strategies for accommodating campers with diverse needs, these policies promote a welcoming and equitable camp environment for all.  
-**Health and Wellness Policies:** Access guidelines for maintaining the health and well-being of campers and staff. Whether it's managing dietary restrictions, promoting hygiene practices, or addressing mental health concerns, these policies prioritize the overall wellness of everyone at camp.  
-**Staff Training Policies:** Equip your staff with the knowledge and skills they need to uphold camp policies and create a positive, supportive atmosphere for campers. Our staff training policies cover topics such as:  
-   - Orientation and Onboarding:** Guidelines for introducing new staff members to camp policies, procedures, and expectations.
-   - Training Modules: Resources for ongoing training and professional development, covering areas such as communication skills, conflict resolution, and emergency response.
-   - Child Protection and Safety Training: Policies and procedures for educating staff on child protection protocols, recognizing signs of abuse or neglect, and responding appropriately to safeguard campers' well-being.
+Our Policy Library serves as a centralized hub where summer camps can access a wide range of policies and guidelines to support their operations.  
+ 
+## Explore our policies.  
+
+   **Administrative Policies:** Streamline your camp's administrative processes with our collection of administrative policies. From registration and enrollment procedures to financial management and staff hiring protocols, these policies ensure smooth operations and compliance with regulatory standards.  
+   **Safety Policies:** Browse through our collection of safety policies, covering topics such as emergency procedures, risk management protocols, and camper supervision guidelines. These policies are designed to mitigate risks and promote a safe environment for campers and staff.  
+   **Inclusivity Policies:** Discover resources aimed at fostering diversity and inclusion within your camp community. From anti-discrimination policies to strategies for accommodating campers with diverse needs, these policies promote a welcoming and equitable camp environment for all.  
+   **Health and Wellness Policies:** Access guidelines for maintaining the health and well-being of campers and staff. Whether it's managing dietary restrictions, promoting hygiene practices, or addressing mental health concerns, these policies prioritize the overall wellness of everyone at camp.  
+   **Staff Training Policies:** Equip your staff with the knowledge and skills they need to uphold camp policies and create a positive, supportive atmosphere for campers. Our staff training policies cover topics such as:  
+   -**Orientation and Onboarding:** Guidelines for introducing new staff members to camp policies, procedures, and expectations.
+   -**Training Modules:** Resources for ongoing training and professional development, covering areas such as communication skills, conflict resolution, and emergency response.
+   -**Child Protection and Safety Training:** Policies and procedures for educating staff on child protection protocols, recognizing signs of abuse or neglect, and responding appropriately to safeguard campers' well-being.
 
 ## How to Use Our Policy Library  
 
