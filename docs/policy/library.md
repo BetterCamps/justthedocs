@@ -26,9 +26,9 @@ Our Policy Library serves as a centralized hub where summer camps can access a w
 
 5. **Staff Training Policies:**  
    Equip your staff with the knowledge and skills they need to uphold camp policies and create a positive, supportive atmosphere for campers. Our staff training policies cover topics such as:  
-      - Orientation and Onboarding: Guidelines for introducing new staff members to camp policies, procedures, and expectations.  
-      - Training Modules: Resources for ongoing training and professional development, covering areas such as communication skills, conflict resolution, and emergency response.  
-      - Child Protection and Safety Training: Policies and procedures for educating staff on child protection protocols, recognizing signs of abuse or neglect, and responding appropriately to safeguard campers' well-being.  
+      - **Orientation and Onboarding:** Guidelines for introducing new staff members to camp policies, procedures, and expectations.  
+      - **Training Modules:** Resources for ongoing training and professional development, covering areas such as communication skills, conflict resolution, and emergency response.  
+      - **Child Protection and Safety Training:** Policies and procedures for educating staff on child protection protocols, recognizing signs of abuse or neglect, and responding appropriately to safeguard campers' well-being.  
 
 ## How to Use Our Policy Library  
 
