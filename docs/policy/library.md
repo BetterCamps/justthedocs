@@ -12,10 +12,10 @@ Our Policy Library serves as a centralized hub where summer camps can access a w
  
 ## Explore our policies.  
 
-1. **Administrative Policies:**  
+1. **Administrative Policies**  
    Streamline your camp's administrative processes with our collection of administrative policies. From registration and enrollment procedures to financial management and staff hiring protocols, these policies ensure smooth operations and compliance with regulatory standards.
    
-2. **Safety Policies:**  
+2. **Safety Policies**  
    Browse through our collection of safety policies, covering topics such as emergency procedures, risk management protocols, and camper supervision guidelines. These policies are designed to mitigate risks and promote a safe environment for campers and staff.
    
 3. **Inclusivity Policies**  
@@ -24,7 +24,7 @@ Our Policy Library serves as a centralized hub where summer camps can access a w
 4.  **Health and Wellness Policies**  
    Access guidelines for maintaining the health and well-being of campers and staff. Whether it's managing dietary restrictions, promoting hygiene practices, or addressing mental health concerns, these policies prioritize the overall wellness of everyone at camp.  
 
-5. **Staff Training Policies:**  
+5. **Staff Training Policies**  
    Equip your staff with the knowledge and skills they need to uphold camp policies and create a positive, supportive atmosphere for campers. Our staff training policies cover topics such as:  
       - **Orientation and Onboarding:** Guidelines for introducing new staff members to camp policies, procedures, and expectations.  
       - **Training Modules:** Resources for ongoing training and professional development, covering areas such as communication skills, conflict resolution, and emergency response.  
