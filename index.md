@@ -16,7 +16,7 @@ We are dedicated to empowering summer camps to create safer environments through
 
 **Community Support:** Join a network of like-minded camp professionals dedicated to creating safer, more inclusive environments for all. Share insights, exchange ideas, and collaborate with fellow camp leaders through our online community forums.  
 
-At BetterCamps, we believe that every child deserves a safe and welcoming camp experience. Join us in making that vision a reality. Together, we can build better camps for all. 
+At BetterCamps, we believe that every child deserves a safe and welcoming camp experience. Join us in making that vision a reality. Together, we can build better camps for all.  
 
-This work is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+###### All information and resources published on this website are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
