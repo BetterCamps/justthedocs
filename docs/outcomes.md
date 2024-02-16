@@ -26,8 +26,6 @@ Staff should be trained to lead the activities and be aware of the observable ou
    -Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect.  
    -Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.  
 
-<br>
-  
 2. Advance Justice, Equity, and Compassion <br>
 
    **Goal**  
@@ -41,8 +39,6 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Engage campers in hands-on service projects and reflect on the impact of their actions on others.  
    -Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion.
 
-<br>
-
 3. Encourage Acceptance and Growth  
 
    **Goal**  
@@ -55,8 +51,6 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Create small support groups, even including cabin groups, where campers can share their challenges and successes in a safe and supportive environment.  
    -Provide opportunities for campers to showcase their talents and receive encouragement and feedback from their peers.  
    -Offer programming or activities containing art, writing, music, or other media where campers can express their thoughts and ideas creatively.  
-   
-<br>	
 
 4. Facilitate a Free and Responsible Search for Truth and Meaning  
 
@@ -86,8 +80,6 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Facilitate debates on current events or ethical issues, allowing campers to practice articulating and defending their beliefs.  
    -Simulate the democratic process and teach campers about the importance of civic engagement.  
 
-<br>	
-
 6. Promote a World Community with Peace, Liberty, and Justice  
 
    **Goal**  
@@ -100,8 +92,6 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Facilitate programming or activities that celebrate diversity and promote cross-cultural understanding among campers.  
    -Discuss conflict resolution and nonviolent communication techniques.  
    -Provide opportunities for and/or encourage campers to engage in cooperative problem solving.  
-   
-<br>
 
 7. The Interdependent Web of Existence and Sustainability  
 
@@ -119,4 +109,4 @@ Campers will gain an understanding of social justice issues and be inspired to t
 
 
 These goals are modified from the Seven Principles of Universal Unitarianism, cited below.  
-Sias, J., & Woodbury, S. (2020, November 19). *The Seven Principles*. Unitarian Universalist Association. https://www.uua.org/beliefs/what-we-believe/principles 
+> Sias, J., & Woodbury, S. (2020, November 19). *The Seven Principles*. Unitarian Universalist Association. https://www.uua.org/beliefs/what-we-believe/principles 
