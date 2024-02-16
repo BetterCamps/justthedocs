@@ -14,7 +14,7 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 ## Development Objectives  
 
-1. ### Promote Inherent Worth and Dignity  
+1. Promote Inherent Worth and Dignity  
 
 #### Goal  
    To foster an environment where every individual feels valued and respected regardless of their background or beliefs.  
@@ -26,8 +26,8 @@ Staff should be trained to lead the activities and be aware of the observable ou
    - Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect.  
    - Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.  
 
-{:start="2"} 
-2. ### Advance Justice, Equity, and Compassion  
+ 
+2. Advance Justice, Equity, and Compassion  
 
 #### Goal  
    To instill a sense of social responsibility and empathy towards others, promoting fairness and compassion in all interactions.  
