@@ -14,7 +14,7 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 ### Development Objectives
 
-1. Promote Inherent Worth and Dignity  
+####1. Promote Inherent Worth and Dignity  
 
    **Goal**  
      To foster an environment where every individual feels valued and respected regardless of their background or beliefs.  
@@ -64,8 +64,6 @@ Campers will gain an understanding of social justice issues and be inspired to t
    -Organize structured discussions around thought-provoking topics, encouraging campers to explore different perspectives and form their own opinions.  
    -Encourage campers to question assumptions and engage in respectful dialogue with their peers.  
    -Invite experts or guest speakers to present on topics related to truth-seeking and critical thinking.  
-
-<br>
 
 5. Uphold the Right of Conscience and Democratic Process  
 
