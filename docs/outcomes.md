@@ -14,28 +14,27 @@ Staff should be trained to lead the activities and be aware of the observable ou
 
 ## Development Objectives  
   
-### 1\. Promote Inherent Worth and Dignity  
+1. **Promote Inherent Worth and Dignity**  
 
-#### Goal  
+   #### Goal  
    To foster an environment where every individual feels valued and respected regardless of their background or beliefs.  
 
-#### Outcome  
+   #### Outcome  
    Campers will develop a deep appreciation for the uniqueness and worth of every person, leading to a culture of inclusivity and empathy within the camp community.  
 
-#### How to measure   
+   #### How to measure   
    - Staff can observe camper interactions and intervene when necessary to ensure other campers and staff are treated with respect.  
-   - Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.   
+   - Campers can provide feedback to each other on their behaviors and attitudes towards inclusivity and respect.  
 
-  
-### 2\. Advance Justice, Equity, and Compassion  
+2. **Advance Justice, Equity, and Compassion**  
 
-#### Goal  
+   #### Goal  
    To instill a sense of social responsibility and empathy towards others, promoting fairness and compassion in all interactions.  
 
-#### Outcome  
-Campers will gain an understanding of social justice issues and be inspired to take action towards creating a more equitable and compassionate society.  
+   #### Outcome  
+   Campers will gain an understanding of social justice issues and be inspired to take action towards creating a more equitable and compassionate society.  
 
-#### How to measure   
+   #### How to measure   
    - Facilitate group discussions on topics related to social justice, allowing campers to share their perspectives and ideas.  
    - Engage campers in hands-on service projects and reflect on the impact of their actions on others.  
    - Create scenarios or programming where campers must navigate ethical dilemmas and make decisions based on principles of justice and compassion.
