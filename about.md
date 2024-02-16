@@ -4,7 +4,7 @@ title: About Us
 nav_order: 2
 ---
 
-# **Who We Are**
+# **Who We Are**  
 
 We are a passionate team of professionals dedicated to revolutionizing the summer camp experience. With backgrounds in education, child psychology, risk management, and diversity advocacy, our team brings a diverse range of expertise to the table. We are united by a shared commitment to ensuring that every child has access to a safe, inclusive, and enriching camp environment.
 
