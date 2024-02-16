@@ -16,14 +16,6 @@ We are dedicated to empowering summer camps to create safer environments through
 
 **Community Support:** Join a network of like-minded camp professionals dedicated to creating safer, more inclusive environments for all. Share insights, exchange ideas, and collaborate with fellow camp leaders through our online community forums.  
 
-## Get Involved  
-
-Are you passionate about improving camp policies and promoting inclusivity? There are many ways to get involved with BetterCamps:  
-
-   - Donate: Your contributions help us continue our mission of supporting summer camps in creating safer, more inclusive environments.
-   - Volunteer: Join our team of volunteers and lend your expertise to help camps develop and implement effective policies.
-   - Spread the Word: Follow us on social media, share our resources, and help raise awareness about the importance of camp safety and inclusivity.
-
 At BetterCamps, we believe that every child deserves a safe and welcoming camp experience. Join us in making that vision a reality. Together, we can build better camps for all. 
 
 This work is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
