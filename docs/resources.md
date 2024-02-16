@@ -27,14 +27,6 @@ In addition to policies, our resources page offers a wealth of guidelines and be
 **Inclusion Strategies:** Explore practical tips and strategies for promoting diversity, fostering inclusion, and addressing discrimination or bias in the camp environment.  
 **Emergency Response Protocols:** Access detailed protocols and procedures for responding to various emergencies, including medical incidents, severe weather, and other unexpected situations.  
 
-## Educational Materials  
-
-Our resources page also features educational materials designed to empower camp leaders, staff, and participants with knowledge and skills that support our mission of creating better camps.  
-
-Training Modules: Engage in interactive training modules covering topics such as conflict resolution, communication skills, and cultural competency.  
-Webinars and Workshops: Attend virtual events led by industry experts and thought leaders, offering insights and strategies for enhancing camp policies and practices.  
-Research and Publications: Stay informed about the latest research and publications relevant to camp management, safety, and inclusivity.  
-
 ## Start Exploring  
 
 Ready to access our resources and take your camp to the next level? Browse our collection of policies, guidelines, and educational materials today. Together, we can build better camps for all.  
