@@ -18,5 +18,3 @@ We are dedicated to empowering summer camps to create safer environments through
 
 At BetterCamps, we believe that every child deserves a safe and welcoming camp experience. Join us in making that vision a reality. Together, we can build better camps for all.  
 
-###### The information and resources published on this website is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
-
