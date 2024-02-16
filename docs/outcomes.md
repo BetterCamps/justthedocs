@@ -4,7 +4,7 @@ title: Camper Goals and Outcomes
 nav_order: 6
 ---
 
-# Camper Goals and Outcomes
+# **Camper Goals and Outcomes**
 
 The camp community provides an exceptional opportunity for campers to develop and experience mental, emotional, social, and physical health. We foster specific activities or experiences to provide the greatest opportunity for age-appropriate mental, emotional, social, and physical health development to occur throughout the camp curriculum and through interpersonal interactions. 
 
@@ -42,65 +42,65 @@ Campers will gain an understanding of social justice issues and be inspired to t
 
 3. **Encourage Acceptance and Growth**  
 
-#### Goal  
+   #### Goal  
    To create a supportive environment where campers feel accepted for who they are and are encouraged to pursue personal growth and development.<br>
 
-#### Outcome  
+   #### Outcome  
    Campers will feel empowered to explore their interests and talents, both within their hobbies and in their personal development, leading to increased self-confidence and resilience. <br>
 
-#### How to measure  
+   #### How to measure  
    - Create small support groups, even including cabin groups, where campers can share their challenges and successes in a safe and supportive environment.  
    - Provide opportunities for campers to showcase their talents and receive encouragement and feedback from their peers.  
    - Offer programming or activities containing art, writing, music, or other media where campers can express their thoughts and ideas creatively.  
 
 4. **Facilitate a Free and Responsible Search for Truth and Meaning**  
 
-#### Goal  
+   #### Goal  
    To encourage critical thinking and open-mindedness, fostering a lifelong commitment to seeking truth and meaning through rational inquiry and exploration.  
 
-#### Outcome  
+   #### Outcome  
    Campers will develop the skills to critically evaluate information and form their own informed opinions, leading to a deeper understanding of themselves and the world around them.  
 
-#### How to measure  
+   #### How to measure  
    - Organize structured discussions around thought-provoking topics, encouraging campers to explore different perspectives and form their own opinions.  
    - Encourage campers to question assumptions and engage in respectful dialogue with their peers.  
    - Invite experts or guest speakers to present on topics related to truth-seeking and critical thinking.  
 
 5. **Uphold the Right of Conscience and Democratic Process**  
 
-#### Goal  
+   #### Goal  
    To cultivate a sense of civic engagement and respect for diverse viewpoints, empowering campers to participate in democratic processes and advocate for their beliefs.  
 
-#### Outcome  
+   #### Outcome  
    Campers will learn the importance of active citizenship and civil discourse, contributing positively to their communities and society at large.  
 
-#### How to measure  
+   #### How to measure  
    - Hold regular meetings where campers can voice their opinions and vote on decisions that affect their cabin groups or the camp community at large.  
    - Facilitate debates on current events or ethical issues, allowing campers to practice articulating and defending their beliefs.  
    - Simulate the democratic process and teach campers about the importance of civic engagement.  
 
 6. **Promote a World Community with Peace, Liberty, and Justice**  
 
-#### Goal  
+   #### Goal  
    To inspire campers to work towards a global community characterized by peace, liberty, and justice for all.  
 
-#### Outcome  
+   #### Outcome  
    Campers will develop a sense of global citizenship and empathy towards people from different backgrounds, leading to a commitment to promoting peace and justice to create vibrant, resilient, and compassionate communities.  
 
-#### How to measure  
+   #### How to measure  
    - Facilitate programming or activities that celebrate diversity and promote cross-cultural understanding among campers.  
    - Discuss conflict resolution and nonviolent communication techniques.  
    - Provide opportunities for and/or encourage campers to engage in cooperative problem solving.  
 
 7. **The Interdependent Web of Existence and Sustainability**  
 
-#### Goal  
+   #### Goal  
    To cultivate environmental stewardship and appreciation for the interconnectedness of all life forms, promoting sustainable practices and respect for the natural world.  
 
-#### Outcome  
+   #### Outcome  
    Campers will develop a sense of responsibility towards the environment and a commitment to preserving the delicate balance of the ecosystems upon which all life depends.  
 
-#### How to measure  
+   #### How to measure  
    - Incorporate education about environmental conservation and sustainability practices into programming, activities, or discussions.  
    - Implement eco-friendly practices within the camp, such as recycling programs or food-waste reduction, and involve campers in their implementation.  
    - Organize nature hikes where campers can explore, experience, and appreciate the interconnectedness of all living beings firsthand.  
